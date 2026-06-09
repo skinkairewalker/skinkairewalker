@@ -45,7 +45,7 @@ Busco sempre arquiteturas flexíveis, código limpo e tecnologias que ofereçam 
 
 * Resolver problemas dos outros usando meus softwares
 * Criar ferramentas que acelerem a produção de software
-* Compartilhar conhecimento e projetos open source
+* Compartilhar conhecimento e fazer meu conhecimento ser útil pra muita gente
 
 ## 🌎 Onde me encontrar
  -Aoooooooo, Goiânia !!!!
