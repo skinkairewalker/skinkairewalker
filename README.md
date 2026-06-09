@@ -2,7 +2,8 @@
 
 Desenvolvedor apaixonado por criar ferramentas para outros desenvolvedores, engines e soluções de software gerais.
 
-
+#### Meu portifólio interativo: https://waldem.ar ( Ainda em desenvolvimento, mas acessível ) 
+</br>
 🚀 Atualmente trabalhando em projetos pessoais envolvendo:
 
 * Desenvolvimento de jogos 2D e 3D
