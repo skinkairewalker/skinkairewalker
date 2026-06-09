@@ -13,6 +13,13 @@ Desenvolvedor apaixonado por criar ferramentas para outros desenvolvedores, engi
 * Renderização e engines gráficas
 * Sistemas multiplayer
 
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=skinkairewalker&theme=tokyonight&hide_border=true&border_radius=10)
+
+
+</div>
+
 ## 🎯 Minha filosofia
 
 Acredito que boas ferramentas devem combinar desempenho, simplicidade e liberdade criativa.
@@ -22,13 +29,6 @@ Tenho paixão por construir soluções que permitam aos desenvolvedores transfor
 Também adoro criar aplicações para desktop e mobile que utilizem comunicação em tempo real, explorando diferentes protocolos de socket para construir sistemas interativos, multiplayer, distribuídos e de baixa latência.
 
 Busco sempre arquiteturas flexíveis, código limpo e tecnologias que ofereçam controle, escalabilidade e alta performance.
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=skinkairewalker&theme=tokyonight&hide_border=true&border_radius=10)
-
-
-</div>
 
 ## 🛠️ Tecnologias
 
